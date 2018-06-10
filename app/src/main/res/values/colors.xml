@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#0c9934</color>
+    <!--<color name="colorPrimary">#ffffff</color>-->
+    <!--<color name="colorPrimaryDark">#caccd9</color>-->
+    <!--<color name="colorAccent">#a1989b</color>-->
+    <color name="text_color_dark">#272727</color>
+    <color name="ink1">#65E34F</color>
+    <color name="ink2">#00D8C5</color>
+    <color name="ink3">#4D9DFD</color>
+    <color name="ink4">#9973FD</color>
+    <color name="ink5">#F242CA</color>
+    <color name="ink6">#FF0076</color>
+    <color name="ink7">#FF9C00</color>
+    <color name="ink8">#F2C500</color>
+    <color name="ink9">#008346</color>
+    <color name="ink10">#00C57D</color>
+    <color name="ink11">#009FF4</color>
+    <color name="ink12">#733FDB</color>
+    <color name="ink13">#C900A2</color>
+    <color name="ink14">#F90058</color>
+    <color name="ink15">#D45E00</color>
+    <color name="ink16">#73646E</color>
+    <color name="ink17">#A40041</color>
+    <color name="ink18">#6E5C9E</color>
+</resources>
